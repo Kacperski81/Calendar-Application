@@ -19,6 +19,19 @@ textarea {
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+  margin-bottom: 0px;
+  padding: 32px;
+}
+
+.confirmation {
+  text-align: center;
+  display: none;
+  margin-top: .5em;
+  
+}
+
+.confirmation span {
+  color: red;
 }
 
 .description {
@@ -40,21 +53,21 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .past {
   background-color: #d3d3d3;
-  color: white;
 }
 
 .present {
   background-color: #ff6961;
-  color: white;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
 }
 
 .saveBtn {
@@ -63,9 +76,14 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 30px;
+  color: black;
   transition: all 0.3s ease-in-out;
 }

@@ -4,4 +4,4 @@ This is simple calendar application that allows a user to add and save events to
 ## URL
 https://kacperski81.github.io/Calendar-Application/
 ## Screenshot
-![calendar-app](https://user-images.githubusercontent.com/99400249/207147694-35610362-0d13-4eea-ab5f-49344b4e9e19.png)
+![calendar-app](https://user-images.githubusercontent.com/99400249/207148048-46a42023-b721-48a5-8ed6-b5270c0f9300.png)
